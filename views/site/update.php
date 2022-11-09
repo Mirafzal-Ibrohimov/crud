@@ -6,7 +6,7 @@ use yii\widgets\ActiveForm;
 $this->title = 'YII2 CRUD Application';
 ?>
 <div class="site-index">
-    <h1>UPDATE POST</h1>
+    <h1>UPDATE POST yii2 </h1>
 
     <div class="body-content">
         <?
